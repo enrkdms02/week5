@@ -7,3 +7,6 @@
 #london-heading {
     background-color: pink;
 }
+html{
+    scroll-behavior: smooth;
+}
