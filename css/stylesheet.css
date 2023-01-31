@@ -1,12 +1,27 @@
 .heading{
     color: red;
 }
+
 .paris-para {
     background-color: beige;
 }
+
 #london-heading {
     background-color: pink;
 }
+
 html{
     scroll-behavior: smooth;
+}
+
+#lorem-ipsum{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
+
+#lorem-ipsum-para{
+    border: 10px lightgreen ridge;
+    margin: 5px;
 }
