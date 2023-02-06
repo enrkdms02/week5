@@ -25,3 +25,13 @@ html{
     border: 10px lightgreen ridge;
     margin: 5px;
 }
+
+
+h1{
+    font: Arial, Helvetica, "San-serif font";
+    text-align: center;
+}
+
+body{
+    font: 'Courier New', Courier, monospace;
+}
